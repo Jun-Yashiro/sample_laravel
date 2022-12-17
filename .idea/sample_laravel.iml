@@ -37,12 +37,9 @@
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/guzzlehttp/promises" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/dragonmantank/cron-expression" />
-      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phpdocumentor/reflection-common" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/nunomaduro/collision" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/tijsverkoyen/css-to-inline-styles" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/graham-campbell/result-type" />
-      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phpdocumentor/type-resolver" />
-      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phpdocumentor/reflection-docblock" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/composer" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/psr/event-dispatcher" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/psr/http-client" />
@@ -60,7 +57,6 @@
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/league/mime-type-detection" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/league/config" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/nikic/php-parser" />
-      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/facade/ignition-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/nesbot/carbon" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/ramsey/collection" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/league/flysystem" />
@@ -81,7 +77,6 @@
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/myclabs/deep-copy" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/laravel/sail" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/mockery/mockery" />
-      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phpspec/prophecy" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phpunit/php-timer" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phar-io/manifest" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/phar-io/version" />
@@ -117,6 +112,11 @@
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/theseer/tokenizer" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/symfony/console" />
       <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/nunomaduro/termwind" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/jeroennoten/laravel-adminlte" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/almasaeed2010/adminlte" />
+      <excludeFolder url="file://$MODULE_DIR$/example-app/vendor/laravelcollective/html" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
