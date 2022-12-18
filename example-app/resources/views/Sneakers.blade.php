@@ -61,7 +61,7 @@
 {{--            <a-sky color="#9EA1E7"></a-sky>--}}
 
 {{--        </a-scene>--}}
-        <a href="https://code-step.com/demo/html/media/index.html"><img src="/Sneakers_files/logo.svg" alt="Sneakers"></a>
+        <a href="https://code-step.com/demo/html/media/index.html"><img src="/Sneakers_files/logo.svg" alt="Sneakers">お勉強用</a>
     </div>
 
 
