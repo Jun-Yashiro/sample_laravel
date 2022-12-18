@@ -24,10 +24,10 @@ return new class extends Migration
             $table->string('category')->nullable()->comment('アイデアカテゴリー');//アイデアカテゴリー
             $table->string('file_type')->nullable()->comment('ファイル形式');//ファイル形式
             $table->string('explain')->nullable()->comment('説明');//説明
-            $table->timestampTz('created_at')->comment('作成日');//作成日
-            $table->timestampTz('updated_at')->comment('更新日');//更新日
+            $table->timestamp('created_at')->comment('作成日');//作成日
+            $table->timestamp('updated_at')->comment('更新日');//更新日
             $table->smallInteger('delete_flg')->nullable()->comment('削除フラグ');//削除フラグ
-            $table->timestampTz('deleted_at')->nullable()->comment('削除日');//削除日
+            $table->timestamp('deleted_at')->nullable()->comment('削除日');//削除日
         });
     }
 
