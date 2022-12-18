@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--aaa-->
 <project version="4">
   <component name="PhpIncludePathManager">
     <include_path>
@@ -31,12 +32,9 @@
       <path value="$PROJECT_DIR$/example-app/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/example-app/vendor/guzzlehttp/promises" />
       <path value="$PROJECT_DIR$/example-app/vendor/dragonmantank/cron-expression" />
-      <path value="$PROJECT_DIR$/example-app/vendor/phpdocumentor/reflection-common" />
       <path value="$PROJECT_DIR$/example-app/vendor/nunomaduro/collision" />
       <path value="$PROJECT_DIR$/example-app/vendor/tijsverkoyen/css-to-inline-styles" />
       <path value="$PROJECT_DIR$/example-app/vendor/graham-campbell/result-type" />
-      <path value="$PROJECT_DIR$/example-app/vendor/phpdocumentor/type-resolver" />
-      <path value="$PROJECT_DIR$/example-app/vendor/phpdocumentor/reflection-docblock" />
       <path value="$PROJECT_DIR$/example-app/vendor/composer" />
       <path value="$PROJECT_DIR$/example-app/vendor/psr/event-dispatcher" />
       <path value="$PROJECT_DIR$/example-app/vendor/psr/http-client" />
@@ -54,7 +52,6 @@
       <path value="$PROJECT_DIR$/example-app/vendor/league/mime-type-detection" />
       <path value="$PROJECT_DIR$/example-app/vendor/league/config" />
       <path value="$PROJECT_DIR$/example-app/vendor/nikic/php-parser" />
-      <path value="$PROJECT_DIR$/example-app/vendor/facade/ignition-contracts" />
       <path value="$PROJECT_DIR$/example-app/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/example-app/vendor/ramsey/collection" />
       <path value="$PROJECT_DIR$/example-app/vendor/league/flysystem" />
@@ -75,7 +72,6 @@
       <path value="$PROJECT_DIR$/example-app/vendor/myclabs/deep-copy" />
       <path value="$PROJECT_DIR$/example-app/vendor/laravel/sail" />
       <path value="$PROJECT_DIR$/example-app/vendor/mockery/mockery" />
-      <path value="$PROJECT_DIR$/example-app/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/example-app/vendor/phpunit/php-timer" />
       <path value="$PROJECT_DIR$/example-app/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/example-app/vendor/phar-io/version" />
@@ -111,9 +107,14 @@
       <path value="$PROJECT_DIR$/example-app/vendor/theseer/tokenizer" />
       <path value="$PROJECT_DIR$/example-app/vendor/symfony/console" />
       <path value="$PROJECT_DIR$/example-app/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/example-app/vendor/nunomaduro/termwind" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/example-app/vendor/jeroennoten/laravel-adminlte" />
+      <path value="$PROJECT_DIR$/example-app/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/example-app/vendor/laravelcollective/html" />
     </include_path>
   </component>
-  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.0" />
   <component name="PhpUnit">
     <phpunit_settings>
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/example-app/vendor/autoload.php" />
